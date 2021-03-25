@@ -1,0 +1,17 @@
+{
+    "name": "rushanufa102/phantomjs-php",
+    "description": "phantomjs image generator module for bitrix",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Rushan",
+            "email": "webmastersprorf@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
